@@ -1,7 +1,7 @@
 {
   "name": "todolist-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/Felizlin94/TodoList-React.git",
+  
   "private": true,
   "dependencies": {
     "@babel/core": "^7.20.12",
